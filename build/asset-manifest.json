@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.9dc33084.css",
-    "main.js": "/static/js/main.03e2a55b.js",
+    "main.css": "/static/css/main.2df9dc47.css",
+    "main.js": "/static/js/main.c260a750.js",
     "static/media/young-man-sportswear-exercise-class-gym.jpg": "/static/media/young-man-sportswear-exercise-class-gym.650b14f885325d9d5cb3.jpg",
     "index.html": "/index.html",
-    "main.9dc33084.css.map": "/static/css/main.9dc33084.css.map",
-    "main.03e2a55b.js.map": "/static/js/main.03e2a55b.js.map"
+    "main.2df9dc47.css.map": "/static/css/main.2df9dc47.css.map",
+    "main.c260a750.js.map": "/static/js/main.c260a750.js.map"
   },
   "entrypoints": [
-    "static/css/main.9dc33084.css",
-    "static/js/main.03e2a55b.js"
+    "static/css/main.2df9dc47.css",
+    "static/js/main.c260a750.js"
   ]
 }
