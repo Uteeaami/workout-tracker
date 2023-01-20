@@ -1,14 +1,16 @@
 {
-  "files": {
-    "main.css": "/static/css/main.ea074b2b.css",
-    "main.js": "/static/js/main.e2c16dcd.js",
-    "static/media/young-man-sportswear-exercise-class-gym.jpg": "/static/media/young-man-sportswear-exercise-class-gym.650b14f885325d9d5cb3.jpg",
-    "index.html": "/index.html",
-    "main.ea074b2b.css.map": "/static/css/main.ea074b2b.css.map",
-    "main.e2c16dcd.js.map": "/static/js/main.e2c16dcd.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.ea074b2b.css",
-    "static/js/main.e2c16dcd.js"
-  ]
+  "main.css": "/static/css/main.7efb466f.chunk.css",
+  "main.js": "/static/js/main.de7301e5.chunk.js",
+  "main.js.map": "/static/js/main.de7301e5.chunk.js.map",
+  "static/css/1.549df39c.chunk.css": "/static/css/1.549df39c.chunk.css",
+  "static/js/1.78297386.chunk.js": "/static/js/1.78297386.chunk.js",
+  "static/js/1.78297386.chunk.js.map": "/static/js/1.78297386.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/media/index.css": "/static/media/young-man-sportswear-exercise-class-gym.c1543ede.jpg",
+  "static/css/main.7efb466f.chunk.css.map": "/static/css/main.7efb466f.chunk.css.map",
+  "static/css/1.549df39c.chunk.css.map": "/static/css/1.549df39c.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.713b1d5ce6dc17042a804d6a99c50bcd.js": "/precache-manifest.713b1d5ce6dc17042a804d6a99c50bcd.js",
+  "service-worker.js": "/service-worker.js"
 }
