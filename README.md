@@ -32,4 +32,4 @@ This is a MERN (MongoDB, Express.js, React.js, Node.js) stack application that a
 - Axios: For making HTTP requests to the server.
 
 ## Change in Hosting and Source Code Availability
-This application was previously on a PaaS, but it is no longer hosted there. Additionally, the source code is unavailable because of my inexperience at the time. 😅
+This application was previously on a PaaS, but it is no longer hosted there. Additionally, the source code is unavailable because of my stupidity :)
